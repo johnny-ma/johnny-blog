@@ -1,1 +1,1 @@
-# johnny-blog
+# jma-hugo-blog
